@@ -1,0 +1,3 @@
+instaloader
+discord-webhook
+requests
